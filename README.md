@@ -1,8 +1,8 @@
-## Kumpulan repository exercise & assignment DevLand
+# Kumpulan repository exercise & assignment DevLand
 DevLand Programming Bootcamp - Frontend Developer React js
 
-### Assignment
-1. Remove Duplication
+## Assignment
+1. [Remove Duplication](https://github.com/rikiwidiantoro/code-logic-basic/tree/main/remove-duplication)
 2. User Input
 3. Car List
 4. React Template
@@ -11,7 +11,7 @@ DevLand Programming Bootcamp - Frontend Developer React js
 7. Movie Review
 
 
-### Exercise
+## Exercise
 1. Basic Algoritm : smallest number & votes
 
 2. Catering Landingpage
