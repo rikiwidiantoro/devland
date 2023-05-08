@@ -1,5 +1,5 @@
 # Kumpulan repository exercise & assignment DevLand
-DevLand Programming Bootcamp - Frontend Developer React js
+DevLand Programming Bootcamp Batch IV - Frontend Developer React js
 
 ## Assignment
 1. [Remove Duplication](https://github.com/rikiwidiantoro/code-logic-basic/tree/main/remove-duplication)
@@ -9,16 +9,23 @@ DevLand Programming Bootcamp - Frontend Developer React js
 5. Todo App
 6. Thrift Store
 7. Movie Review
+8. Todo Web
 
 
 ## Exercise
-1. Basic Algoritm : smallest number & votes
+1. JavaScript
+    - Basic Algoritm -> javascript : smallest number & votes
 
-2. Catering Landingpage
-3. Architect Landingpage
-4. Agency Landingpage
+2. HTML & CSS + Form JavaScript
+    - Catering Landingpage
+    - Architect Landingpage
+    - Agency Landingpage
 
-5. Showcase Landingpage
-6. Counter & Form Input
-7. Book Store
-8. My Blog
+3. React js
+    - Showcase Landingpage -> component
+    - Counter & Form Input -> props
+    - Book Store -> state
+    - My Blog -> context
+    
+4. React Js REST API
+    - Rest Example -> REST API, json-server
